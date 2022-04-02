@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zbc1123
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on 
+- 💞️  Nice to meet you
 
 
 <!---
