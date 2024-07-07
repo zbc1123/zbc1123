@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zbc1123
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning C
-- 💞️  Nice to meet you
-
-
-<!---
-zbc1123/zbc1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，
+精通CSS、Javascript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、Actionscript、Pascal等单词的拼写，
+熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机[doge]
